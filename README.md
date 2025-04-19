@@ -31,7 +31,7 @@ El proyecto está culminado.
 
 Puedes acceder al proyecto yendo a este enlace:
 
-[Enlace al repositorio de GitHub](https://github.com/andreyali/challenge-amigo-secreto_esp-main)
+[Enlace](https://andreyali.github.io/Amigo-Secreto/)
 
 ## Tecnologías utilizadas
 
