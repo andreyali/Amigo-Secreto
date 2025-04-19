@@ -39,14 +39,3 @@ Puedes acceder al proyecto yendo a este enlace:
 - CSS
 - JavaScript
 
-## Personas Contribuyentes
-
-- [Nombre del contribuyente 1](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile)
-
-## Personas Desarrolladoras del Proyecto
-
-- [Andreyali]([https://github.com/andreyali])
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Puedes ver los detalles de la licencia en el archivo [LICENSE](LICENSE).
